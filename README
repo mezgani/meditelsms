@@ -1,0 +1,17 @@
+
+Meditelsms, allows you instantly to send sms to meditel numbers.
+First of all, register to the website meditel.ma.
+Please make sure that you have set up login and password in the sms.py
+the sms script get the message from the stdin, it is very simple
+to modify for other personal use.
+
+
+meditelsms is free software; you can redistribute it and/or modify it under the terms of the GNU
+General Public License as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.See the GNU General Public License for more details.
+
+For more information visit the project's web site at:
+
+
+have fun!
+
